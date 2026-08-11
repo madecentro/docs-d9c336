@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-85nz9s.resultafacil.com.br/sitemap.xml
